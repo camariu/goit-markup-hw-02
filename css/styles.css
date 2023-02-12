@@ -20,6 +20,8 @@ color:
 #000000;
 text-decoration: none;
 }
+
+.buttons-all,.buttons:hover{background-color: lightblue;}
  
 
 .navigation-logo li a {
