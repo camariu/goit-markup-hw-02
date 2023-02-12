@@ -23,7 +23,6 @@ text-decoration: none;
 
 .buttons-all,.buttons:hover{background-color: lightblue;}
  
-
 .navigation-logo li a {
  list-style: none;}
 
@@ -112,4 +111,3 @@ color: #757575;}
 
 .navigation-logo-2::after{ content:"Studio"; color: 
             #FFFFFF;}
-
