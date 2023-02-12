@@ -1,0 +1,113 @@
+
+html{ 
+    letter-spacing: 0.02em;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: 'Roboto';
+    font-style: normal;}
+
+.page-header{background: #FFFFFF;}
+
+.navigation-logo-1 {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: 
+#000000;
+text-decoration: none;
+}
+ 
+
+.navigation-logo li a {
+ list-style: none;}
+
+.navigation-logo::before{ 
+content:"Web"; color: #2196F3;}
+
+.navigation-studio-contacts{
+height: 16px;
+left: 453px;
+top: 32px;
+color: #212121;
+text-decoration: none
+;
+}
+
+.navigation-portfolio {
+    width: 58px;
+    height: 16px;
+    left: 545px;
+    top: 32px;
+    color: #2196F3;
+    text-decoration: none
+;}
+
+.navigation-list-right li a {
+    color: #757575;
+    text-decoration: none}
+
+.unstyled-list {list-style: none;}
+
+
+.buttons-all,.buttons{ border-radius: 4px;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+
+}
+
+.buttons-all{
+    background: #2196F3;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    color: #FFFFFF;;
+}
+
+.buttons{
+    background: #F5F4FA;
+    color: #212121;
+ }
+
+.title-image{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    color: #212121;}
+
+.parafarf{
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+letter-spacing: 0.03em;
+color: #757575;}
+
+.footer{background: #2F303A;}
+
+.footer-address{
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    text-decoration: none;}
+
+.footer-tel-email{
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;}
+
+.navigation-logo-2{
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        letter-spacing: 0.03em; 
+        color: #2196F3;
+        text-decoration: none;}
+
+.navigation-logo-2::after{ content:"Studio"; color: 
+            #FFFFFF;}
+
