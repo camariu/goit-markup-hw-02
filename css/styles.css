@@ -20,9 +20,8 @@ color:
 #000000;
 text-decoration: none;
 }
+.navigation-studio-contacts, .buttons:hover, .buttons-all:hover{cursor: pointer;}
 
-.buttons-all,.buttons:hover{background-color: lightblue;}
- 
 .navigation-logo li a {
  list-style: none;}
 
@@ -89,15 +88,20 @@ color: #757575;}
 
 .footer{background: #2F303A;}
 
-.footer-address{
-    letter-spacing: 0.03em;
-    color: #FFFFFF;
-    text-decoration: none;}
+.footer-address,.footer-tel-email{  text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;}
+
+.footer-address{ 
+    color: #FFFFFF;}
 
 .footer-tel-email{
-    letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
-    text-decoration: none;}
+    }
 
 .navigation-logo-2{
         font-family: 'Raleway';
